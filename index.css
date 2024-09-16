@@ -70,7 +70,8 @@ p a {
     border-radius: 10px;
     background-color: hsl(0, 0%, 20%);
     margin-left: 5%;
-    margin-right: 5%; 
+    margin-right: 5%;
+    margin-top: 0;
 }
 #git:hover, #front-mentor:hover, #LinkedIn:hover, #Mastodon:hover, #Instagram:hover {
     background-color: hsl(75, 94%, 57%);
@@ -105,7 +106,6 @@ p a {
     border-radius: 10px;
     margin-left: 5%;
     margin-right: 5%;
-    padding-bottom: ; 
 }
 p {   
     font-size: 17px;
@@ -118,4 +118,5 @@ img {
     display: block;
     border-radius: 50%;
     margin: 0 auto;
+}
 }

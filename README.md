@@ -1,12 +1,6 @@
- HEAD
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
-=======
-# Frontend Mentor - Recipe page
-
-![Design preview for the Recipe page coding challenge](./preview.jpg)
- 89d9f9e8d389a5ab650e0620bedcc046668cd868
 
 ## Welcome! 👋
 
@@ -18,7 +12,6 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-HEAD
 Your challenge is to build out this social links profile and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
@@ -27,12 +20,6 @@ Your users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-=======
-Your challenge is to build out this recipe page and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
- 89d9f9e8d389a5ab650e0620bedcc046668cd868
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
 ## Where to find everything
@@ -104,7 +91,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
- HEAD
-=======
-# my-projects
- 89d9f9e8d389a5ab650e0620bedcc046668cd868
