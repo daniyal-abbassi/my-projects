@@ -1,0 +1,1 @@
+By default, block-level elements like <h3> take up the full width of their parent container, which is why the background color spreads across the entire line.
